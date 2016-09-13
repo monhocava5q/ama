@@ -25,6 +25,6 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 ### Links
 
-- [Read more AMAs](https://github.com/thelarkinn/amas)
+- [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](../../fork)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
