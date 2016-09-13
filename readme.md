@@ -19,12 +19,12 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 -
 
-*I can also be reached on [Twitter](https://twitter.com/kentcdodds) and [email](mailto:kent+ama@doddsfamily.us), but I prefer [this medium](https://github.com/kentcdodds/ama/issues/new).*
+*I can also be reached on [Twitter](https://twitter.com/thelarkinn) and [email](mailto:sean.larkin@cuw.edu), but I prefer [this medium](https://github.com/thelarkinn/ama/issues/new).*
 
 -
 
 ### Links
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
+- [Read more AMAs](https://github.com/thelarkinn/amas)
 - [Create your own AMA](../../fork)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
